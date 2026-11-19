@@ -6,9 +6,9 @@ to work together on a shared project.
 > Status: 🚧 In progress — sections are being written by the team.
 
 ## Table of Contents
-1. Introduction
-2. Features
-3. How Our Team Used It
+I. Introduction
+II. Features
+III. How Our Team Used It
 
 ---
 
