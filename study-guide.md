@@ -21,7 +21,8 @@ campus, depending on whether you need quiet, coffee, or a group table.
 _TODO: List 2–3 cafés good for studying. (Issue #2)_
 
 ## 3. Tips for Group Study
-_TODO: To be written after both sections are merged._
+- **Book a group room**: reserve library rooms a day ahead
+- **Use one shared file**: keep all notes in one place so nothing gets lost
 
 ---
 
