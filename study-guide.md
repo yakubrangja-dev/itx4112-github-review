@@ -22,8 +22,8 @@ campus, depending on whether you need quiet, coffee, or a group table.
 - **24-hour coffee shop**: good for late-night exam prep
 
 ## 3. Tips for Group Study
-- **Split the work early**: give each person one section on day one
-- **Set a check-in time**: meet for 10 minutes every two days
+- **Book a group room**: reserve library rooms a day ahead
+- **Use one shared file**: keep all notes in one place so nothing gets lost
 
 ---
 
